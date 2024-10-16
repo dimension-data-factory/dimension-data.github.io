@@ -1,11 +1,3 @@
-
-
-
-
-
-
-
-
 # 一. Japan export data Summary
 
 * data source: [&darr;&darr;Japan Customs->serch entrance](https://www.customs.go.jp/toukei/srch/indexe.htm?M=05&P=0)
@@ -39,7 +31,8 @@
 
 > **json example**
 >
->> ```
+>>
+```
 {
     "type": "export",
     "hscode": "090210",
@@ -65,7 +58,6 @@
 # 三. Download examples
 
 [&darr;&darr;japan customs export examples](./japan_io/export_example_010614_090210.csv)
-
 
 <div>
 <style scoped>
@@ -226,6 +218,6 @@
 
 # 四.contact
 
-1. email: dimension_data@163.com
-2. WeChat:
-> ![](./imgs/wechat.jpeg)
+1. email: [dimension_data@163.com](mailto:dimension_data@163.com)
+2. WeChat:<br>
+<img src=./imgs/wechat.jpeg width=30%/>
