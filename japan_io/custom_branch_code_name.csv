@@ -1,0 +1,166 @@
+﻿branch_code,branch_name,hd_code,hd_name,hd_description
+100,TOKYO,1,TOKYO,TOKYO是日本的首都，位于日本本州岛关东平原南端。
+101,TOKYO KOUKUU (BARAKI),1,TOKYO,TOKYO是日本的首都，位于日本本州岛关东平原南端。
+103,HANEDA A.P,1,TOKYO,TOKYO是日本的首都，位于日本本州岛关东平原南端。
+104,NARITA A.P,1,TOKYO,TOKYO是日本的首都，位于日本本州岛关东平原南端。
+120,NIIGATA,1,TOKYO,TOKYO是日本的首都，位于日本本州岛关东平原南端。
+122,NAOETSU,1,TOKYO,TOKYO是日本的首都，位于日本本州岛关东平原南端。
+123,KASHIWAZAKI,1,TOKYO,TOKYO是日本的首都，位于日本本州岛关东平原南端。
+124,NIIGATA A.P,1,TOKYO,TOKYO是日本的首都，位于日本本州岛关东平原南端。
+140,SAKATA,1,TOKYO,TOKYO是日本的首都，位于日本本州岛关东平原南端。
+200,YOKOHAMA,2,YOKOHAMA,横滨，位于日本本州中部关东地区南部。
+202,KAWASAKI,2,YOKOHAMA,横滨，位于日本本州中部关东地区南部。
+203,YOKOSUKA,2,YOKOHAMA,横滨，位于日本本州中部关东地区南部。
+220,CHIBA,2,YOKOHAMA,横滨，位于日本本州中部关东地区南部。
+222,KISARAZU,2,YOKOHAMA,横滨，位于日本本州中部关东地区南部。
+243,KASHIMA,2,YOKOHAMA,横滨，位于日本本州中部关东地区南部。
+244,HITACHI,2,YOKOHAMA,横滨，位于日本本州中部关东地区南部。
+245,TSUKUBA,2,YOKOHAMA,横滨，位于日本本州中部关东地区南部。
+246,IBRAKI A.P.,2,YOKOHAMA,横滨，位于日本本州中部关东地区南部。
+250,ONAHAMA,2,YOKOHAMA,横滨，位于日本本州中部关东地区南部。
+252,SOOMA,2,YOKOHAMA,横滨，位于日本本州中部关东地区南部。
+253,FUKUSHI A.P,2,YOKOHAMA,横滨，位于日本本州中部关东地区南部。
+260,SENDAISHIOGAMA,2,YOKOHAMA,横滨，位于日本本州中部关东地区南部。
+262,ISHINOMAKI,2,YOKOHAMA,横滨，位于日本本州中部关东地区南部。
+264,KESENNUMA,2,YOKOHAMA,横滨，位于日本本州中部关东地区南部。
+265,SENDAI A.P,2,YOKOHAMA,横滨，位于日本本州中部关东地区南部。
+271,UTSUNOMIYA,2,YOKOHAMA,横滨，位于日本本州中部关东地区南部。
+300,KOBE,3,KOBE,KOBE是日本兵库县的港口城市，神户。
+302,AMAGASAKI,3,KOBE,KOBE是日本兵库县的港口城市，神户。
+303,HIMEJI,3,KOBE,KOBE是日本兵库县的港口城市，神户。
+304,AIOI,3,KOBE,KOBE是日本兵库县的港口城市，神户。
+305,HIGASHIHARIMA,3,KOBE,KOBE是日本兵库县的港口城市，神户。
+320,UNO,3,KOBE,KOBE是日本兵库县的港口城市，神户。
+321,OKAYAMA A.P,3,KOBE,KOBE是日本兵库县的港口城市，神户。
+322,MIZUSHIMA,3,KOBE,KOBE是日本兵库县的港口城市，神户。
+340,ONOMICHIITOZAKI,3,KOBE,KOBE是日本兵库县的港口城市，神户。
+342,FUKUYAMA,3,KOBE,KOBE是日本兵库县的港口城市，神户。
+343,INNOSHIMA,3,KOBE,KOBE是日本兵库县的港口城市，神户。
+344,KURE,3,KOBE,KOBE是日本兵库县的港口城市，神户。
+345,HIROSHIMA,3,KOBE,KOBE是日本兵库县的港口城市，神户。
+346,TAKEHARA,3,KOBE,KOBE是日本兵库县的港口城市，神户。
+347,HIROSHIMA A.P,3,KOBE,KOBE是日本兵库县的港口城市，神户。
+350,SAKAIMINATO,3,KOBE,KOBE是日本兵库县的港口城市，神户。
+352,HAMADA,3,KOBE,KOBE是日本兵库县的港口城市，神户。
+360,SAKAIDE,3,KOBE,KOBE是日本兵库县的港口城市，神户。
+362,TAKAMATSU,3,KOBE,KOBE是日本兵库县的港口城市，神户。
+363,TAKUMA,3,KOBE,KOBE是日本兵库县的港口城市，神户。
+364,MARUGAME,3,KOBE,KOBE是日本兵库县的港口城市，神户。
+365,TAKAMATSU A.P,3,KOBE,KOBE是日本兵库县的港口城市，神户。
+370,MATSUYAMA,3,KOBE,KOBE是日本兵库县的港口城市，神户。
+372,IMABARI,3,KOBE,KOBE是日本兵库县的港口城市，神户。
+373,NIIHAMA,3,KOBE,KOBE是日本兵库县的港口城市，神户。
+374,MISHIMA,3,KOBE,KOBE是日本兵库县的港口城市，神户。
+375,UWAJIMA,3,KOBE,KOBE是日本兵库县的港口城市，神户。
+376,MATSUYAMA A.P,3,KOBE,KOBE是日本兵库县的港口城市，神户。
+380,KOOCHI,3,KOBE,KOBE是日本兵库县的港口城市，神户。
+382,SUZAKI,3,KOBE,KOBE是日本兵库县的港口城市，神户。
+390,KOMATSUJIMA,3,KOBE,KOBE是日本兵库县的港口城市，神户。
+392,ANAN,3,KOBE,KOBE是日本兵库县的港口城市，神户。
+400,OSAKA,4,OSAKA,OSAKA是日本的大阪府，位于日本本州岛中部。
+401,OSAKA KOUKUU,4,OSAKA,OSAKA是日本的大阪府，位于日本本州岛中部。
+402,OSAKA SAKAI,4,OSAKA,OSAKA是日本的大阪府，位于日本本州岛中部。
+403,KISHIWADA,4,OSAKA,OSAKA是日本的大阪府，位于日本本州岛中部。
+404,KANSAI A.P.,4,OSAKA,OSAKA是日本的大阪府，位于日本本州岛中部。
+422,MIYAZU,4,OSAKA,OSAKA是日本的大阪府，位于日本本州岛中部。
+423,KYOTO,4,OSAKA,OSAKA是日本的大阪府，位于日本本州岛中部。
+424,SHIGA,4,OSAKA,OSAKA是日本的大阪府，位于日本本州岛中部。
+430,MAIZURU,4,OSAKA,OSAKA是日本的大阪府，位于日本本州岛中部。
+432,UCHIURA,4,OSAKA,OSAKA是日本的大阪府，位于日本本州岛中部。
+440,FUSHIKI,4,OSAKA,OSAKA是日本的大阪府，位于日本本州岛中部。
+442,TOYAMA,4,OSAKA,OSAKA是日本的大阪府，位于日本本州岛中部。
+443,TOYAMA A.P.,4,OSAKA,OSAKA是日本的大阪府，位于日本本州岛中部。
+450,NANAO,4,OSAKA,OSAKA是日本的大阪府，位于日本本州岛中部。
+452,KANAZAWA,4,OSAKA,OSAKA是日本的大阪府，位于日本本州岛中部。
+453,KOMATSU A.P,4,OSAKA,OSAKA是日本的大阪府，位于日本本州岛中部。
+460,TSURUGA,4,OSAKA,OSAKA是日本的大阪府，位于日本本州岛中部。
+461,FUKUI,4,OSAKA,OSAKA是日本的大阪府，位于日本本州岛中部。
+470,SHIMOTSU,4,OSAKA,OSAKA是日本的大阪府，位于日本本州岛中部。
+472,WAKAYAMA,4,OSAKA,OSAKA是日本的大阪府，位于日本本州岛中部。
+473,TANABE,4,OSAKA,OSAKA是日本的大阪府，位于日本本州岛中部。
+474,SHINGU,4,OSAKA,OSAKA是日本的大阪府，位于日本本州岛中部。
+500,NAGOYA,5,NAGOYA,名古屋，位于日本中部，爱知县的首府。
+502,CHUBU A.P.,5,NAGOYA,名古屋，位于日本中部，爱知县的首府。
+503,GAMAGOORI,5,NAGOYA,名古屋，位于日本中部，爱知县的首府。
+504,MIKAWA,5,NAGOYA,名古屋，位于日本中部，爱知县的首府。
+505,KINUURA,5,NAGOYA,名古屋，位于日本中部，爱知县的首府。
+520,SHIMIZU,5,NAGOYA,名古屋，位于日本中部，爱知县的首府。
+522,TAGONOURA,5,NAGOYA,名古屋，位于日本中部，爱知县的首府。
+523,OMAEZAKI,5,NAGOYA,名古屋，位于日本中部，爱知县的首府。
+524,SHIZUOKA A.P.,5,NAGOYA,名古屋，位于日本中部，爱知县的首府。
+540,YOKKAICHI,5,NAGOYA,名古屋，位于日本中部，爱知县的首府。
+542,OWASE,5,NAGOYA,名古屋，位于日本中部，爱知县的首府。
+543,TSU,5,NAGOYA,名古屋，位于日本中部，爱知县的首府。
+600,MOJI,6,MOJI,MOJI是日本北九州市的一个区。
+602,KANDA,6,MOJI,MOJI是日本北九州市的一个区。
+603,TOBATA,6,MOJI,MOJI是日本北九州市的一个区。
+604,HAKATA,6,MOJI,MOJI是日本北九州市的一个区。
+605,FUKUOKA A.P,6,MOJI,MOJI是日本北九州市的一个区。
+606,KITAKYU A.P.,6,MOJI,MOJI是日本北九州市的一个区。
+620,SHIMONOSEKI,6,MOJI,MOJI是日本北九州市的一个区。
+622,HAGI,6,MOJI,MOJI是日本北九州市的一个区。
+623,UBE,6,MOJI,MOJI是日本北九州市的一个区。
+624,TOKUYAMA,6,MOJI,MOJI是日本北九州市的一个区。
+625,KUDAMATSU,6,MOJI,MOJI是日本北九州市的一个区。
+626,HOOFU,6,MOJI,MOJI是日本北九州市的一个区。
+627,HIRAO,6,MOJI,MOJI是日本北九州市的一个区。
+628,IWAKUNI,6,MOJI,MOJI是日本北九州市的一个区。
+632,AJISU,6,MOJI,MOJI是日本北九州市的一个区。
+640,KARATSU,6,MOJI,MOJI是日本北九州市的一个区。
+642,IMARI,6,MOJI,MOJI是日本北九州市的一个区。
+650,IZUHARA,6,MOJI,MOJI是日本北九州市的一个区。
+660,OOITA,6,MOJI,MOJI是日本北九州市的一个区。
+661,OOITA A.P,6,MOJI,MOJI是日本北九州市的一个区。
+662,TUKUMI,6,MOJI,MOJI是日本北九州市的一个区。
+663,SAGANOSEKI,6,MOJI,MOJI是日本北九州市的一个区。
+664,SAIKI,6,MOJI,MOJI是日本北九州市的一个区。
+670,HOSOJIMA,6,MOJI,MOJI是日本北九州市的一个区。
+671,MIYAZAKI AIR PORT,6,MOJI,MOJI是日本北九州市的一个区。
+672,ABURATSU,6,MOJI,MOJI是日本北九州市的一个区。
+700,NAGASAKI,7,NAGASAKI,长崎是日本九州岛西南部的城市。
+703,SASEBO,7,NAGASAKI,长崎是日本九州岛西南部的城市。
+704,NAGASAKI A.P,7,NAGASAKI,长崎是日本九州岛西南部的城市。
+705,MATSUSHIMA,7,NAGASAKI,长崎是日本九州岛西南部的城市。
+720,MIIKE,7,NAGASAKI,长崎是日本九州岛西南部的城市。
+740,MISUMI,7,NAGASAKI,长崎是日本九州岛西南部的城市。
+742,MINAMATA,7,NAGASAKI,长崎是日本九州岛西南部的城市。
+743,YATSUSHIRO,7,NAGASAKI,长崎是日本九州岛西南部的城市。
+744,KUMAMOTO A.P,7,NAGASAKI,长崎是日本九州岛西南部的城市。
+745,KUMAMOTO,7,NAGASAKI,长崎是日本九州岛西南部的城市。
+750,KAGOSHIMA,7,NAGASAKI,长崎是日本九州岛西南部的城市。
+752,KAGOSHIMA A.P,7,NAGASAKI,长崎是日本九州岛西南部的城市。
+753,KIIRE,7,NAGASAKI,长崎是日本九州岛西南部的城市。
+754,SHIBUSHI,7,NAGASAKI,长崎是日本九州岛西南部的城市。
+755,SENDAI,7,NAGASAKI,长崎是日本九州岛西南部的城市。
+756,MAKURAZAKI,7,NAGASAKI,长崎是日本九州岛西南部的城市。
+800,HAKODATE,8,HAKODATE,北海道南部，面对津轻海峡的一个城市。
+802,MURORAN,8,HAKODATE,北海道南部，面对津轻海峡的一个城市。
+803,TOMAKOMAI,8,HAKODATE,北海道南部，面对津轻海峡的一个城市。
+804,OTARU,8,HAKODATE,北海道南部，面对津轻海峡的一个城市。
+805,RUMOI,8,HAKODATE,北海道南部，面对津轻海峡的一个城市。
+806,SAPPORO,8,HAKODATE,北海道南部，面对津轻海峡的一个城市。
+807,KUSHIRO,8,HAKODATE,北海道南部，面对津轻海峡的一个城市。
+808,NEMURO,8,HAKODATE,北海道南部，面对津轻海峡的一个城市。
+809,WAKKANAI,8,HAKODATE,北海道南部，面对津轻海峡的一个城市。
+810,ABASHIRI,8,HAKODATE,北海道南部，面对津轻海峡的一个城市。
+811,MONBETSU,8,HAKODATE,北海道南部，面对津轻海峡的一个城市。
+812,CHITOSE A.P,8,HAKODATE,北海道南部，面对津轻海峡的一个城市。
+814,ISHIKARI,8,HAKODATE,北海道南部，面对津轻海峡的一个城市。
+815,TOKACHII,8,HAKODATE,北海道南部，面对津轻海峡的一个城市。
+816,ASAHIKAWA A.P,8,HAKODATE,北海道南部，面对津轻海峡的一个城市。
+820,AOMORI,8,HAKODATE,北海道南部，面对津轻海峡的一个城市。
+822,HACHINOHE,8,HAKODATE,北海道南部，面对津轻海峡的一个城市。
+823,AOMORI A.P,8,HAKODATE,北海道南部，面对津轻海峡的一个城市。
+840,MIYAKO,8,HAKODATE,北海道南部，面对津轻海峡的一个城市。
+842,KAMAISHI,8,HAKODATE,北海道南部，面对津轻海峡的一个城市。
+843,OOFUNATO,8,HAKODATE,北海道南部，面对津轻海峡的一个城市。
+850,AKITAFUNAGAWA,8,HAKODATE,北海道南部，面对津轻海峡的一个城市。
+852,FUNAGAWA,8,HAKODATE,北海道南部，面对津轻海峡的一个城市。
+853,NOSHIRO,8,HAKODATE,北海道南部，面对津轻海峡的一个城市。
+854,AKITA AIRPORT,8,HAKODATE,北海道南部，面对津轻海峡的一个城市。
+900,OKINAWA CHIKU,9,OKINAWA CHIKU,OKINAWA CHIKU是日本冲绳地区。
+902,OKINAWA SHISYO,9,OKINAWA CHIKU,OKINAWA CHIKU是日本冲绳地区。
+905,MIYAKOJIMA,9,OKINAWA CHIKU,OKINAWA CHIKU是日本冲绳地区。
+906,ISHIGAKI,9,OKINAWA CHIKU,OKINAWA CHIKU是日本冲绳地区。
+907,NAHA AIRPORT,9,OKINAWA CHIKU,OKINAWA CHIKU是日本冲绳地区。
+908,ISHIGAKI AIRPORT,9,OKINAWA CHIKU,OKINAWA CHIKU是日本冲绳地区。

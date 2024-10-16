@@ -1,0 +1,236 @@
+﻿Geographical Zone,Code,Country
+Asia,103,Republic of Korea
+Asia,104,North Korea
+Asia,105,People's Republic of China
+Asia,106,Taiwan
+Asia,107,Mongolia
+Asia,108,Hong Kong
+Asia,110,Viet Nam
+Asia,111,Thailand
+Asia,112,Singapore
+Asia,113,Malaysia
+Asia,116,Brunei
+Asia,117,Philippines
+Asia,118,Indonesia
+Asia,120,Cambodia
+Asia,121,Laos
+Asia,122,Myanmar
+Asia,123,India
+Asia,124,Pakistan
+Asia,125,Sri Lanka
+Asia,126,Maldives
+Asia,127,Bangladesh
+Asia,128,Timor-Leste
+Asia,129,Macao
+Asia,130,Afghanistan
+Asia,131,Nepal
+Asia,132,Bhutan
+Middle East,133,Iran
+Middle East,134,Iraq
+Middle East,135,Bahrain
+Middle East,137,Saudi Arabia
+Middle East,138,Kuwait
+Middle East,140,Qatar
+Middle East,141,Oman
+Middle East,143,Israel
+Middle East,144,Jordan
+Middle East,145,Syria
+Middle East,146,Lebanon
+Middle East,147,United Arab Emirates
+Middle East,149,Yemen
+"Central and East Europe,Russia etc.",150,Azerbaijan
+"Central and East Europe,Russia etc.",151,Armenia
+"Central and East Europe,Russia etc.",152,Uzbekistan
+"Central and East Europe,Russia etc.",153,Kazakhstan
+"Central and East Europe,Russia etc.",154,Kyrgyz
+"Central and East Europe,Russia etc.",155,Tajikistan
+"Central and East Europe,Russia etc.",156,Turkmenistan
+"Central and East Europe,Russia etc.",157,Georgia
+Middle East,158,The West Bank and Gaza Strip
+Western Europe,201,Iceland
+Western Europe,202,Norway
+Western Europe,203,Sweden
+Western Europe,204,Denmark
+Western Europe,205,United Kingdom
+Western Europe,206,Ireland
+Western Europe,207,Netherlands
+Western Europe,208,Belgium
+Western Europe,209,Luxembourg
+Western Europe,210,France
+Western Europe,211,Monaco
+Western Europe,212,Andorra
+Western Europe,213,Germany
+Western Europe,215,Switzerland
+Western Europe,216,Azores (Portugal)
+Western Europe,217,Portugal
+Western Europe,218,Spain
+Western Europe,219,Gibraltar (UK)
+Western Europe,220,Italy
+Western Europe,221,Malta
+Western Europe,222,Finland
+"Central and East Europe,Russia etc.",223,Poland
+"Central and East Europe,Russia etc.",224,Russia
+Western Europe,225,Austria
+"Central and East Europe,Russia etc.",227,Hungary
+Western Europe,228,Serbia
+"Central and East Europe,Russia etc.",229,Albania
+Western Europe,230,Greece
+"Central and East Europe,Russia etc.",231,Romania
+"Central and East Europe,Russia etc.",232,Bulgaria
+Western Europe,233,Cyprus
+Western Europe,234,Turkey
+"Central and East Europe,Russia etc.",235,Estonia
+"Central and East Europe,Russia etc.",236,Latvia
+"Central and East Europe,Russia etc.",237,Lithuania
+"Central and East Europe,Russia etc.",238,Ukraine
+"Central and East Europe,Russia etc.",239,Belarus
+"Central and East Europe,Russia etc.",240,Moldova
+Western Europe,241,Croatia
+Western Europe,242,Slovenia
+Western Europe,243,Bosnia and Herzegovina
+Western Europe,244,North Macedonia
+"Central and East Europe,Russia etc.",245,Czech Republic
+"Central and East Europe,Russia etc.",246,Slovakia
+Western Europe,247,Montenegro
+Western Europe,248,Kosovo
+Western Europe,249,Faroe Islands (Denmark)
+Western Europe,250,Vatican City
+North America,301,Greenland (Denmark)
+North America,302,Canada
+North America,303,St.Pierre and Miquelon (France)
+North America,304,United States of America
+Middle and South America,305,Mexico
+Middle and South America,306,Guatemala
+Middle and South America,307,Honduras
+Middle and South America,308,Belize
+Middle and South America,309,El Salvador
+Middle and South America,310,Nicaragua
+Middle and South America,311,Costa Rica
+Middle and South America,312,Panama
+Middle and South America,314,Bermuda (UK)
+Middle and South America,315,The Bahamas
+Middle and South America,316,Jamaica
+Middle and South America,317,"Turks, and Caicos Islands (UK)"
+Middle and South America,319,Barbados
+Middle and South America,320,Trinidad and Tobago
+Middle and South America,321,Cuba
+Middle and South America,322,Haiti
+Middle and South America,323,Dominican Republic
+Middle and South America,324,Puerto Rico (USA)
+Middle and South America,325,US Virgin Islands
+Middle and South America,326,Netherlands Antilles
+Middle and South America,327,French West Indies
+Middle and South America,328,Cayman islands (UK)
+Middle and South America,329,Grenada
+Middle and South America,330,St.Lucia
+Middle and South America,331,Antigua and Barbuda
+Middle and South America,332,British Virgin Islands
+Middle and South America,333,Dominica
+Middle and South America,334,Monstserrat (UK)
+Middle and South America,335,St.Christopher and Nevis
+Middle and South America,336,St.Vincent
+Middle and South America,337,British Anguilla
+Middle and South America,338,St.Barthelemy (France)
+Middle and South America,401,Colombia
+Middle and South America,402,Venezuela
+Middle and South America,403,Guyana
+Middle and South America,404,Suriname
+Middle and South America,405,French Guiana
+Middle and South America,406,Ecuador
+Middle and South America,407,Peru
+Middle and South America,408,Bolivia
+Middle and South America,409,Chile
+Middle and South America,410,Brazil
+Middle and South America,411,Paraguay
+Middle and South America,412,Uruguay
+Middle and South America,413,Argentina
+Middle and South America,414,Falkland Islands and Dependencies (UK)
+Middle and South America,415,British Antarctic Territory
+Africa,501,Morocco
+Africa,502,Ceuta and Melilla (Spain)
+Africa,503,Algeria
+Africa,504,Tunisia
+Africa,505,Libya
+Africa,506,Egypt
+Africa,507,Sudan
+Africa,508,West Sahara
+Africa,509,Mauritania
+Africa,510,Senegal
+Africa,511,The Gambia
+Africa,512,Guinea-Bissau
+Africa,513,Guinea
+Africa,514,Sierra Leone
+Africa,515,Liberia
+Africa,516,Rep. of Cote d'Ivoire
+Africa,517,Ghana
+Africa,518,Togo
+Africa,519,Benin
+Africa,520,Mali
+Africa,521,Burkina Faso
+Africa,522,Cape Verde
+Africa,523,Canary Islands (Spain)
+Africa,524,Nigeria
+Africa,525,Niger
+Africa,526,Rwanda
+Africa,527,Cameroon
+Africa,528,Chad
+Africa,529,Central Africa
+Africa,530,Equatorial Guinea
+Africa,531,Gabon
+Africa,532,Republic of Congo
+Africa,533,Democratic Republic of Congo
+Africa,534,Burundi
+Africa,535,Angola
+Africa,536,Sao Tome and Principe
+Africa,537,St. Helena Island and Dependencies (UK)
+Africa,538,Ethiopia
+Africa,539,Djibouti
+Africa,540,Somalia
+Africa,541,Kenya
+Africa,542,Uganda
+Africa,543,Tanzania
+Africa,544,Seychelles
+Africa,545,Mozambique
+Africa,546,Madagascar
+Africa,547,Mauritius
+Africa,548,Reunion (France)
+Africa,549,Zimbabwe
+Africa,550,Namibia
+Africa,551,South Africa
+Africa,552,Lesotho
+Africa,553,Malawi
+Africa,554,Zambia
+Africa,555,Botswana
+Africa,556,Eswatini
+Africa,557,British indian Ocean Territories
+Africa,558,Comoros
+Africa,559,Eritrea
+Africa,560,Republic of South Sudan
+Oceania,601,Australia
+Oceania,602,Papua New Guinea
+Oceania,605,Other Australian Territories
+Oceania,606,New Zealand
+Oceania,607,Cook
+Oceania,608,Tokelau Islands (NZ)
+Oceania,609,Niue
+Oceania,610,Samoa
+Oceania,611,Vanuatu
+Oceania,612,Fiji
+Oceania,613,Solomon Islands
+Oceania,614,Tonga
+Oceania,615,Kiribati
+Oceania,616,Pitcairn (UK)
+Oceania,617,Nauru
+Oceania,618,New Caledonia (France)
+Oceania,619,French Polynesia
+Oceania,620,Guam (USA)
+Oceania,621,American Samoa
+Oceania,622,American Oceania
+Oceania,624,Tuvalu
+Oceania,625,Marshall
+Oceania,626,Micronesia
+Oceania,627,Northern Mariana Islands (USA)
+Oceania,628,Palau
+Special Area,701,For Order
+Special Area,702,Unknown
+Special Area,703,"Bonded Manufacturing Warehouse,Integrated Hozei Area"
