@@ -399,6 +399,6 @@
 
 # 四.contact
 
-1. email: [dimension_data@163.com](mailto:dimension_data@163.com)
+1. email: [dimension\_data@163.com](mailto:dimension_data@163.com)
 2. WeChat:<br>
-<img src='./imgs/wechat.jpeg' width=30%/>
+![](./imgs/wechat.jpeg)
